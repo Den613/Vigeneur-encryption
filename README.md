@@ -34,3 +34,5 @@ Encryption can be either manually or read from a file (hello.txt). When writing 
 ![image](https://user-images.githubusercontent.com/50016345/56863664-fdd96c00-69c1-11e9-80af-af402bf6f365.png)
 
 <p>Key: code</p>
+
+Read file
