@@ -28,3 +28,6 @@ Encryption can be either manually or read from a file (hello.txt). When writing 
 ким образом, даже если не принимать во внимание разнообразные химические
 процессы и перенос излучения, можно с уверенностью сказать, что все компо-
 ненты МЗС тесно связаны друг с другом и звёздами.</p>
+
+# For encryption, you need to come up with a key.
+
